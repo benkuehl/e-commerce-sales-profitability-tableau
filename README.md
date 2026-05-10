@@ -1,6 +1,5 @@
 ## E-Commerce Sales & Profitability Analysis
-Interactive Tableau dashboard analyzing sales and profitability data for a globally operating e-commerce company. Built as a coursework project during my Master of Science in Management at Hult International Business School.
-
+Interactive Tableau dashboard analyzing sales and profitability data for a globally operating e-commerce company.
 View the live interactive dashboard on Tableau Public by clicking on the image below:
 
 [![Dashboard Preview](tableau-dashboard-preview.png)](https://public.tableau.com/app/profile/ben.k.hl8386/viz/A1-E-CommerceAnalysis-BK/Dashboard)
