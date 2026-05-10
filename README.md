@@ -1,5 +1,6 @@
 ## E-Commerce Sales & Profitability Analysis
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
 Interactive Tableau dashboard analyzing sales and profitability data for a globally operating e-commerce company.
 View the live interactive dashboard on Tableau Public by clicking on the image below:
 
